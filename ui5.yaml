@@ -1,0 +1,7 @@
+specVersion: '2.6'
+metadata:
+  name: se16n
+type: application
+framework:
+  name: OpenUI5
+  version: "1.106.0"
